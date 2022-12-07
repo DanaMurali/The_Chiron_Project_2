@@ -1,28 +1,26 @@
-# Create T3 App
+<p align="center">
+<img src="./docs/assets/chiron-crop.png" width="39" height="50" />
+</p>
+<h1 align="center">
+The Chiron Project
+</h1>
+
+### Summary
+
+The Chiron Project is a platform designed to help organisations build mentorship networks, thus enabling employees to exchange knowledge, advice, and support to accelerate both personal and professional capabilities.
+
+Often, mentorships within companies occur unintentionally without a formal program. Our platform aims to bridge this gap. This is essential; in the modern workplace, mentorships across all disciplines play an integral role in an employee’s development, even more so now with the current financial crisis and hybrid working model.
+
+Our user friendly & accessible prototype ensures that a user can search for potential mentors, view their profile page, send requests, and even become a mentor themself, passing their own unique experience forwards.
+
+<p align="center">
+<img src="./docs/assets/microarchitecture.png" width="500"/>
+</p>
+
+<h2>
+References
+</h2>
+
+This is Version 2 of The Chiron Project. You can find V1 [here](https://github.com/DanaMurali/The_Chiron_Project).
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
-
-## What's next? How do I make an app with this?
-
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
-
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
-
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
-
-## Learn More
-
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
